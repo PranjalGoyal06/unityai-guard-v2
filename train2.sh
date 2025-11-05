@@ -25,7 +25,6 @@ S14: Code Interpreter Abuse
 S15: Religious Intolerance  
 S16: Gender-based Abuse  
 S17: Trolling/Cyberbullying  
-S18: Profanity
 
 Text: {}
 Harm Distribution: "
