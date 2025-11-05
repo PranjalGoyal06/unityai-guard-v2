@@ -15,7 +15,10 @@ All other text is SAFE.
 Always output only one word:
 HARMFUL
 or
-SAFE"
+SAFE
+
+Text: {}
+Label: "
 
 # training command
 training_commands="deepspeed --module openrlhf.cli.train_sft \
